@@ -29,7 +29,7 @@ I’m **Dmitry**, a passionate software developer specialized in desktop and mob
 ### 📫 How to reach me
 - GitHub: [github.com/Rip0x1](https://github.com/Rip0x1)  
 - Email: dimaslizh@gmail.com
-- VK: [vk.com/rip0x1.php](https://vk.com/rip0x1.php) 
+- VK: [vk.com/rip0x1](https://vk.com/rip0x1) 
 
 ### ⚡ Fun facts
 - Love combining backend logic with elegant UI  
@@ -68,7 +68,7 @@ I’m **Dmitry**, a passionate software developer specialized in desktop and mob
 ### 📫 Связь со мной
 - GitHub: [github.com/Rip0x1](https://github.com/Rip0x1)  
 - Email: dimaslizh@gmail.com
-- VK: [vk.com/rip0x1.php](https://vk.com/rip0x1.php) 
+- VK: [vk.com/rip0x1](https://vk.com/rip0x1) 
 
 ### ⚡ Забавные факты
 - Люблю сочетать бэкенд-логику с элегантным интерфейсом  
