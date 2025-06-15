@@ -24,7 +24,8 @@ I’m **Dmitry**, a passionate software developer specialized in desktop and mob
 ### 👯 Let’s collaborate on
 - Desktop applications with clean architecture  
 - Mobile apps with smooth UI/UX  
-- Backend APIs and database design  
+- Backend APIs and database design
+- EntityFrameWork, SQL SERVER
 
 ### 📫 How to reach me
 - GitHub: [github.com/Rip0x1](https://github.com/Rip0x1)  
@@ -52,6 +53,7 @@ I’m **Dmitry**, a passionate software developer specialized in desktop and mob
 - Продвинутое проектирование API и RESTful сервисы  
 - Оптимизацию баз данных **MySQL** с помощью Workbench  
 - Современный дизайн UI/UX
+- EntityFrameWork, SQL SERVER
 
 ### 💡 Навыки и технологии
 - **Языки:** C#, SQL, XAML, основы JavaScript  
