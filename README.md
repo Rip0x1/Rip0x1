@@ -15,8 +15,8 @@ I’m **Dmitry**, a passionate software developer specialized in desktop and mob
 - Modern UI/UX design 
 
 ### 💡 Skills & Technologies
-- **Languages:** C#, SQL, XAML, JavaScript basics  
-- **Frameworks:** WPF, .NET MAUI, ASP.NET Core (API)  
+- **Languages:** C#, T-SQL, XAML, JavaScript basics  
+- **Frameworks:** WPF, .NET MAUI, ASP.NET Core (API), .NET  
 - **Databases:** MySQL, SQL Server  
 - **Tools:** Visual Studio, MySQL Workbench, Git & GitHub  
 - **Other:** API integration, MVVM pattern, cross-platform development  
@@ -56,8 +56,8 @@ I’m **Dmitry**, a passionate software developer specialized in desktop and mob
 - EntityFrameWork, SQL SERVER
 
 ### 💡 Навыки и технологии
-- **Языки:** C#, SQL, XAML, основы JavaScript  
-- **Фреймворки:** WPF, .NET MAUI, ASP.NET Core (API)  
+- **Языки:** C#, T-SQL, XAML, основы JavaScript  
+- **Фреймворки:** WPF, .NET MAUI, ASP.NET Core (API), .NET  
 - **Базы данных:** MySQL, SQL Server  
 - **Инструменты:** Visual Studio, MySQL Workbench, Git & GitHub  
 - **Прочее:** интеграция API, паттерн MVVM, кроссплатформенная разработка  
