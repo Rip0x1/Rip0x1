@@ -71,10 +71,10 @@
 - Архитектуру и практики **Entity Framework Core**
 
 ### 💡 Навыки и технологии
-- Языки: `C#`, `T-SQL`, `XAML`, основы `JavaScript`  
+- Языки: `C#`, `T-SQL`, `XAML`
 - Технологии: `.NET`, `WPF`, `.NET MAUI`, `ASP.NET Core`, `Entity Framework Core`  
 - Базы данных: `MySQL`, `SQL Server`  
-- Инструменты: `Visual Studio`, `MySQL Workbench`, `Git`, `GitHub`  
+- Инструменты: `Visual Studio`, `MySQL Workbench`, `Postman`, `SQL Server Management Studio` , `Git`, `GitHub`  
 - Подходы: MVVM, API-интеграции, Clean Architecture
 
 ---
