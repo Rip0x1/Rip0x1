@@ -53,10 +53,14 @@ Here are a few of my projects showcasing my work:
   <a href="https://github.com/Rip0x1/FlightBooking">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rip0x1&repo=FlightBooking&theme=radical" alt="FlightBooking" />
   </a>
+    <a href="https://github.com/Rip0x1/Internet-Speed-Test">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rip0x1&repo=Internet-Speed-Test&theme=radical" alt="Internet-Speed-Test" />
+  </a>
 </p>
 
 - **[GameCatalog](https://github.com/Rip0x1/GameCatalog)**: WPF app for managing and browsing game collections with a sleek UI.
 - **[FlightBooking](https://github.com/Rip0x1/FlightBooking)**: .NET MAUI cross-platform app for flight reservations with real-time API integration.
+- **[Internet-Speed-Test](https://github.com/Rip0x1/Internet-Speed-Test)**: Modern application, which used for speedtest internet.
 
 ---
 
