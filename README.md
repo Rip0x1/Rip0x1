@@ -84,6 +84,7 @@ Here are a few of my projects showcasing my work:
 - GitHub: [github.com/Rip0x1](https://github.com/Rip0x1)
 - Email: [dimaslizh@gmail.com](mailto:dimaslizh@gmail.com)
 - VK: [vk.com/rip0x1](https://vk.com/rip0x1)
+- Telegram: [https://t.me/rip0x1](https://t.me/rip0x1)
 
 ## ⚡ Fun facts
 - Love combining backend logic with elegant front-end
