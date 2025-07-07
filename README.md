@@ -58,7 +58,7 @@ Here are a few of my projects showcasing my work:
   </a>
     </a>
     <a href="https://github.com/Rip0x1/ProductOrderManagement">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rip0x1&repo=Internet-Speed-Test&theme=radical" alt="ProductOrderManagement" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rip0x1&repo=ProductOrderManagement&theme=radical" alt="ProductOrderManagement" />
   </a>
 </p>
 
