@@ -12,19 +12,19 @@
 ### Languages
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/T--SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="T-SQL" />
-  <img src="https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xml&logoColor=white" alt="XAML" />
+  <img src="https://img.shields.io/badge/T--SQL-007ACC?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="T-SQL" />
+  <img src="https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white" alt="XAML" />
 </p>
 
 ### Frameworks & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/WPF-68217A?style=for-the-badge&logo=windows&logoColor=white" alt="WPF" />
-  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style-for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style-for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/Entity_Framework-6DB33F?style-for-the-badge&logo=entity-framework&logoColor=white" alt="Entity Framework" />
-  <img src="https://img.shields.io/badge/MVVM-007ACC?style-for-the-badge&logo=visualstudio&logoColor=white" alt="MVVM" />
-  <img src="https://img.shields.io/badge/MVC-007ACC?style-for-the-badge&logo=visualstudio&logoColor=white" alt="MVC" />
+  <img src="https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=windows&logoColor=white" alt="WPF" />
+  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-6DB33F?style=for-the-badge&logo=entity-framework&logoColor=white" alt="Entity Framework" />
+  <img src="https://img.shields.io/badge/MVVM-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white" alt="MVVM" />
+  <img src="https://img.shields.io/badge/MVC-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white" alt="MVC" />
 </p>
 
 ### Databases
@@ -39,7 +39,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style-for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />
+  <img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SSMS" />
 </p>
 
 ---
