@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software developer building modern desktop & mobile apps, and scalable APIs.</b><br/>
-  <i>WPF | .NET MAUI | ASP.NET Core | API Integration | MVVM | MySQL | SQL Server</i>
+  <i>WPF | .NET MAUI | ASP.NET Core | API Integration | MVVM | MVC | MySQL | SQL Server</i>
 </p>
 
 ---
@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style-for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/Entity_Framework-6DB33F?style-for-the-badge&logo=entity-framework&logoColor=white" alt="Entity Framework" />
   <img src="https://img.shields.io/badge/MVVM-007ACC?style-for-the-badge&logo=visualstudio&logoColor=white" alt="MVVM" />
+  <img src="https://img.shields.io/badge/MVC-007ACC?style-for-the-badge&logo=visualstudio&logoColor=white" alt="MVC" />
 </p>
 
 ### Databases
@@ -85,7 +86,6 @@ Here are a few of my projects showcasing my work:
 - Backend API development and database design
 
 ## 📫 How to reach me
-- GitHub: [github.com/Rip0x1](https://github.com/Rip0x1)
 - Email: [dimaslizh@gmail.com](mailto:dimaslizh@gmail.com)
 - VK: [vk.com/rip0x1](https://vk.com/rip0x1)
 - Telegram: [https://t.me/rip0x1](https://t.me/rip0x1)
