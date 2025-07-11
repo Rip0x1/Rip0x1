@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/T--SQL-007ACC?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="T-SQL" />
   <img src="https://img.shields.io/badge/XAML-0C54C2?style=flat-square&logo=xaml&logoColor=white" alt="XAML" />
+  <img src="https://img.shields.io/badge/JavaScript-CC2927?style=flat-square&logo=xaml&logoColor=white" alt="JavaScript" />
 </p>
 
 ### Frameworks & Technologies
