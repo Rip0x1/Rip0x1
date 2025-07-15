@@ -32,7 +32,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/T--SQL-007ACC?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="T-SQL" />
-  <img src="https://img.shields.io/badge/XAML-0C54C2?style=flat-square&logo=xaml&logoColor=white" alt="XAML" />
   <img src="https://img.shields.io/badge/JavaScript-CC2927?style=flat-square&logo=xaml&logoColor=white" alt="JavaScript" />
 </p>
 
@@ -41,6 +40,7 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/WPF-5C2D91?style=flat-square&logo=windows&logoColor=white" alt="WPF" />
   <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET MAUI" />
+  <img src="https://img.shields.io/badge/XAML-0C54C2?style=flat-square&logo=xaml&logoColor=white" alt="XAML" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/Entity%20Framework-6DB33F?style=flat-square&logo=entity-framework&logoColor=white" alt="Entity Framework" />
   <img src="https://img.shields.io/badge/MVVM-007ACC?style=flat-square&logo=visualstudio&logoColor=white" alt="MVVM" />
