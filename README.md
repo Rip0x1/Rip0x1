@@ -36,32 +36,13 @@
 </p>
 
 ### Frameworks & Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/WPF-5C2D91?style=flat-square&logo=windows&logoColor=white" alt="WPF" />
-  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET MAUI" />
-  <img src="https://img.shields.io/badge/XAML-0C54C2?style=flat-square&logo=xaml&logoColor=white" alt="XAML" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-6DB33F?style=flat-square&logo=entity-framework&logoColor=white" alt="Entity Framework" />
-  <img src="https://img.shields.io/badge/MVVM-007ACC?style=flat-square&logo=visualstudio&logoColor=white" alt="MVVM" />
-  <img src="https://img.shields.io/badge/MVC-007ACC?style=flat-square&logo=visualstudio&logoColor=white" alt="MVC" />
-</p>
+<p align="left"> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/WPF-5C2D91?style=flat-square&logo=windows&logoColor=white" alt="WPF" /> <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET MAUI" /> <img src="https://img.shields.io/badge/XAML-0C54C2?style=flat-square&logo=xaml&logoColor=white" alt="XAML" /> <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" /> <img src="https://img.shields.io/badge/ASP.NET%20Core%20Web%20Apps-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core Web Apps" /> <img src="https://img.shields.io/badge/Entity%20Framework-6DB33F?style=flat-square&logo=entity-framework&logoColor=white" alt="Entity Framework" /> <img src="https://img.shields.io/badge/MVVM-007ACC?style=flat-square&logo=visualstudio&logoColor=white" alt="MVVM" /> <img src="https://img.shields.io/badge/MVC-007ACC?style=flat-square&logo=visualstudio&logoColor=white" alt="MVC" /> </p>
 
 ### Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-</p>
+<p align="left"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> </p>
 
 ### Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Workbench" />
-  <img src="https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SSMS" />
-</p>
+<p align="left"> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Workbench" /> <img src="https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SSMS" /> <img src="https://img.shields.io/badge/pgAdmin-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgAdmin" /> <img src="https://img.shields.io/badge/draw.io-F08705?style=flat-square&logo=diagrams.net&logoColor=white" alt="draw.io" /> </p>
 
 ### 🔭 Current Focus
 
