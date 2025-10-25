@@ -43,22 +43,26 @@
 
 ### 🔭 Current Focus
 
-- Modern WPF desktop applications
-- Cross-platform mobile apps with **.NET MAUI**
-- Scalable backend APIs using **ASP.NET Core**
+- Modern **WPF desktop applications** with MVVM pattern
+- Cross-platform mobile development with **.NET MAUI**
+- Scalable backend solutions using **ASP.NET Core Web API**
+- Containerized applications with **Docker**
 
 ### 🌱 Learning Journey
 
-- Advanced **RESTful API design** and clean architecture
-- **MySQL** performance tuning
-- Modern **UI/UX design** principles
-- Deep dive into **Entity Framework Core** and **SQL Server**
+- Advanced **microservices architecture** and **clean architecture**
+- **PostgreSQL** optimization and performance tuning
+- Modern **UI/UX design** principles and responsive design
+- **Entity Framework Core** advanced patterns and SQL Server optimization
+- **Cloud technologies** and container orchestration
 
 ### 👯 Collaboration Opportunities
 
-- Desktop apps with clean architecture
-- Mobile apps with modern UI/UX
-- Backend API and database design
+- Enterprise **desktop applications** with modern UI and clean architecture
+- Cross-platform **mobile solutions** with .NET MAUI
+- **Backend API development** and database design
+- **Web applications** using ASP.NET Core MVC
+- **Docker containerization** and deployment strategies
 
 ##
 
