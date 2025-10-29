@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey, I'm Dmitry!</h1>
 
 <p align="center">
-  <b>Software Developer | Building Sleek Desktop & Mobile Apps + Robust APIs</b><br/>
-  <i>WPF | .NET MAUI | ASP.NET Core | API Integration | MVVM | MVC | MySQL | SQL Server</i>
+  <b>Software Developer | Building Modern Desktop, Mobile & Web Solutions</b><br/>
+  <i>WPF | .NET MAUI | ASP.NET Core | REST API | MVVM | MVC | MySQL | SQL Server | PostgreSQL | Docker</i>
 </p>
 
 <p align="center">
