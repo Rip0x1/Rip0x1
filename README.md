@@ -46,7 +46,7 @@
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rip0x1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="160" />
   
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rip0x1&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rip0x1&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rip0x1&theme=radical&hide_border=true" width="85%" />
